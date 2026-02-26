@@ -16,7 +16,7 @@ A web-based Student Management System developed using JSP, Servlet,JDBC and MySQ
 - Servlet
 - JDBC
 - MySQL
-- HTML, CSS
+- HTML, CSS,JS
 
 ## 📌 Description
 This project demonstrates CRUD operations and database connectivity using JDBC.
